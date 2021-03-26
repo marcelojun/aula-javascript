@@ -1,2 +1,4 @@
 # aula-javascript
-introdução ao JavaScript
+introdução ao JavaScript.
+
+Inicio de estudos .
